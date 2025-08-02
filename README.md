@@ -2,7 +2,7 @@
 
 This is a solo electrical project I'm building as a final-year EEE student.
 
-![Block Diagram](https://github.com/sharma120104/adaptive-micro-inverter/blob/main/block-diagram.png?raw=true)
+https://github.com/sharma120104/adaptive-micro-inverter/blob/main/flowchart.png%20.png
 
 # Goal
 To build a micro-inverter that can adapt to changing loads and reduce harmonic distortion in real time.
